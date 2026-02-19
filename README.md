@@ -1,0 +1,50 @@
+# Unheilig – Abwärts
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.69] Das Echolot geht auf die Jagd
+[00:28.87] Der letzte Mann ist aufgewacht
+[00:35.75] Ein Feuersturm fällt aus dem Tag
+[00:39.34] Das Rot raubt sich so tief hinab (tief)
+[00:58.84] 
+[00:43.21] Keine Wege die mich führen (tief)
+[00:46.75] Kein Kreuz wird meines sein (so tief)
+[00:50.30] Keine Sonne wird sich zeigen (tief)
+[00:53.78] Kein Licht das mir erscheint (so tief)
+[00:57.36] Keine Narben die vergessen (tief)
+[01:00.88] Kein Weg kann weiter sein (so tief)
+[01:04.54] Keine Helden werden siegen (tief)
+[01:08.18] Abwärts bis zum letzten Mann (so tief)
+[01:27.18] 
+[01:25.62] Der letzte Kurs führt aus dem Tag
+[01:32.65] Die Bolzen schlagen durch die Nacht
+[01:39.66] Der Atem stockt im Fluch der Zeit
+[01:43.41] Die kalte See so tief und weit (tief)
+[02:01.91] 
+[01:47.05] Keine Wege die mich führen (tief)
+[01:50.75] Kein Kreuz wird meines sein (so tief)
+[01:54.23] Keine Sonne wird sich zeigen (tief)
+[01:57.88] Kein Licht das mir erscheint (so tief)
+[02:01.24] Keine Narben die vergessen (tief)
+[02:04.89] Kein Weg kann weiter sein (so tief)
+[02:08.43] Keine Helden werden siegen (tief)
+[02:11.95] Abwärts bis zum letzten Mann (so tief)
+[02:30.95] 
+[02:35.88] So tief
+[02:40.56] Abwärts bis zum letzten Mann (tief)
+[02:58.06] 
+[02:43.93] Keine Wege die mich führen (tief)
+[02:47.53] Kein Kreuz wird meines sein (so tief)
+[02:51.18] Keine Sonne wird sich zeigen (tief)
+[02:54.55] Kein Licht das mir erscheint (so tief)
+[02:58.25] Keine Narben die vergessen (tief)
+[03:01.97] Kein Weg kann weiter sein (so tief)
+[03:05.42] Keine Helden werden siegen (tief)
+[03:08.81] Abwärts bis zum letzten Mann (so tief)
+[03:27.81] 
+[03:15.62] Tief
+[03:18.65] So tief
+[03:22.67] Tief
+[03:25.72] So tief
+```
