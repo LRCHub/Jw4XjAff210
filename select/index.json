@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Abwärts",
+  "base_artist": "Unheilig",
+  "createdAt": "2026-02-19T11:42:38.143666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Abwärts",
+      "artist": "Unheilig",
+      "has_synced": true,
+      "path": "select/01_Abwärts_Unheilig.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Abwärts",
+      "artist": "Unheilig",
+      "has_synced": true,
+      "path": "select/02_Abwärts_Unheilig.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Abwärts",
+      "artist": "Favorite & Jason",
+      "has_synced": true,
+      "path": "select/03_Abwärts_Favorite_&_Jason.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kanüle Abwärts",
+      "artist": "Freiburg",
+      "has_synced": false,
+      "path": "select/04_Kanüle_Abwärts_Freiburg.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Abwärts Und Bergauf",
+      "artist": "Wolfgang Ambros",
+      "has_synced": false,
+      "path": "select/05_Abwärts_Und_Bergauf_Wolfgang_Ambros.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Abwärts Und Bergauf",
+      "artist": "Wolfgang Ambros",
+      "has_synced": true,
+      "path": "select/06_Abwärts_Und_Bergauf_Wolfgang_Ambros.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Abwärts und bergauf (Live)",
+      "artist": "Wolfgang Ambros",
+      "has_synced": false,
+      "path": "select/07_Abwärts_und_bergauf_(Live)_Wolfgang_Ambros.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Abwärts",
+      "artist": "Favorite",
+      "has_synced": false,
+      "path": "select/08_Abwärts_Favorite.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fluss abwärts",
+      "artist": "100 Kilo Herz",
+      "has_synced": false,
+      "path": "select/09_Fluss_abwärts_100_Kilo_Herz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Abwärts",
+      "artist": "Unheilig",
+      "has_synced": false,
+      "path": "select/pl_01_Abwärts_Unheilig.txt"
+    }
+  ]
+}
